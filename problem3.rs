@@ -1,4 +1,4 @@
-// Factorises prime numbers and finds all its prime factors!
+// Factorises numbers and finds all their prime factors!
 
 use std::io;
 
