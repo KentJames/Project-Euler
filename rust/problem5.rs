@@ -1,6 +1,4 @@
 // Finds smallest multiple evenly divisible by a number!
-//
-
 use std::io;
 
 fn main() {
@@ -32,11 +30,5 @@ fn main() {
             break;
         }
         i+= 1;
-
-
-
     }
-
-
-
 }
