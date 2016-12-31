@@ -33,7 +33,6 @@ func main(){
             } else {
                 continue
             }
-
         }
         var check_var int = 1
 
@@ -45,11 +44,5 @@ func main(){
             fmt.Printf("Looks like we found all the prime factors! \n")
             break
         }
-
-
-
     }
-
-
-
 }
