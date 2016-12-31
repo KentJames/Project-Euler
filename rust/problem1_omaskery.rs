@@ -1,4 +1,4 @@
-// Oliver Maskerys beautifully concise method.
+// Oliver Maskery's beautifully concise method.
 
 fn main(){
 
